@@ -49,10 +49,17 @@ POST /employee
 
 ## Screenshots
 
-- Lambda Function
-- DynamoDB Table
-- API Gateway
-- Postman Testing
+### Lambda Function Success
+![Lambda](screenshots/lambda-success.png)
+
+### DynamoDB Table
+![DynamoDB](screenshots/dynamodb-table.png)
+
+### API Gateway
+![API Gateway](screenshots/api-gateway.png)
+
+### Postman Test
+![Postman](screenshots/postman-success.png)
 
 ## Author
 
